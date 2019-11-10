@@ -1,0 +1,219 @@
+Report for Institution Code SDNHM, Resource sdnhm-mammals
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 198
+Number of records retrieved in searches: 1805
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 176
+	Country: United Kingdom ; Times: 6
+	Country: Mexico ; Times: 9
+	Country: Colombia ; Times: 6
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-15 ; Times: 3
+	Date: 2019-09-16 ; Times: 5
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 2
+	Date: 2019-09-11 ; Times: 3
+	Date: 2019-09-12 ; Times: 11
+	Date: 2019-09-13 ; Times: 21
+	Date: 2019-09-18 ; Times: 7
+	Date: 2019-09-19 ; Times: 8
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-03 ; Times: 10
+	Date: 2019-09-02 ; Times: 6
+	Date: 2019-09-06 ; Times: 5
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 4
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 9
+	Date: 2019-09-23 ; Times: 7
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 9
+	Date: 2019-09-24 ; Times: 39
+	Date: 2019-09-27 ; Times: 20
+	Date: 2019-09-26 ; Times: 18
+	Date: 2019-09-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:a9ae9ece-e753-4fb9-8595-a37d0f5aa59c" ; Times: 1
+	Query: "locality:tahquitz county:&#34;Riverside&#34; year &gt;= 1953 month &gt;= 6" ; Times: 1
+	Query: "specificepithet:mollis genus:spermophilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 16
+	Query: "varecia rubra" ; Times: 5
+	Query: "specificepithet:rudinoris county:&#34;San Diego&#34;" ; Times: 1
+	Query: "genus:Megaptera county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:pinetorum genus:microtus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1974" ; Times: 4
+	Query: "genus:Macrotus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Cryptoprocta ferox" ; Times: 4
+	Query: "Panthera onca" ; Times: 10
+	Query: "zapus luteus" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "locality:vicente stateprovince:&#34;baja california&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Peromyscus maniculatus 1979" ; Times: 2
+	Query: "genus:macrotus institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Idionycteris" ; Times: 1
+	Query: "genus:Sciurus county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys distance(location,geopoint(33.35995264862601,-116.75193786621094))&lt;17244" ; Times: 1
+	Query: "Varecia rubra" ; Times: 11
+	Query: "dipodomys merriami parvus" ; Times: 2
+	Query: "stateprovince:&#34;California&#34; recordedby:B Arnold year &gt;= 1978 year &lt;= 2016 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:obscurus genus:tamias institutioncode:SDNHM" ; Times: 3
+	Query: "specificepithet:merriami genus:Dipodomys distance(location,geopoint(33.35995264862601,-116.75193786621094))&lt;11388" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;baja california sur&#34;" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "family:SCIURIDAE order:RODENTIA class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:ornatus genus:Sorex county:&#34;Riverside&#34;" ; Times: 1
+	Query: "genus:Sorex county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "family:soricidae stateprovince:&#34;baja california&#34;" ; Times: 2
+	Query: "Perognathus alticola" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hassex:1" ; Times: 2
+	Query: "genus:cryptotis class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 6
+	Query: "genus:Glaucomys stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "notiosorex evotis" ; Times: 1
+	Query: "genus:oryzomys family:cricetidae order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "order:chiroptera year &gt;= 2000 institutioncode:SDNHM" ; Times: 1
+	Query: "Dipodomys merriami parvus" ; Times: 3
+	Query: "Saxicola leucurus vntype:specimen" ; Times: 1
+	Query: "nivalis mustela" ; Times: 1
+	Query: "24204" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "class:mammalia recordedby:clark institutioncode:SDNHM" ; Times: 1
+	Query: "genus:oryzomys order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris sex:male hassex:1" ; Times: 1
+	Query: "Saxicola leucurus vntype:specimen sex:female" ; Times: 1
+	Query: "Peromyscus maniculatus 1980" ; Times: 2
+	Query: "specificepithet:merriami genus:tamias institutioncode:SDNHM" ; Times: 3
+	Query: "genus:Sorex county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:cynomys stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 10
+	Query: "nigripes Mustela" ; Times: 5
+	Query: "genus:macrotus stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Peromyscus maniculatus 2008" ; Times: 2
+	Query: "Peromyscus maniculatus 2007" ; Times: 1
+	Query: "Callithrix pygmaea" ; Times: 1
+	Query: "Peromyscus maniculatus 2000" ; Times: 1
+	Query: "specificepithet:nuttalli genus:ochrotomys stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:Glaucomys stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:spinatus genus:Chaetodipus county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1998" ; Times: 1
+	Query: "Peromyscus maniculatus 1996" ; Times: 2
+	Query: "Peromyscus maniculatus 1994" ; Times: 2
+	Query: "Peromyscus maniculatus 1995" ; Times: 1
+	Query: "Peromyscus maniculatus 1992" ; Times: 2
+	Query: "Peromyscus maniculatus 1993" ; Times: 1
+	Query: "Peromyscus maniculatus 1990" ; Times: 1
+	Query: "Peromyscus maniculatus 1991" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Dipodomys gravipes" ; Times: 1
+	Query: "genus:microtus family:cricetidae order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 2010" ; Times: 1
+	Query: "Peromyscus maniculatus 2011" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 5
+	Query: "order:chiroptera class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:bassariscus institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1989" ; Times: 2
+	Query: "family:soricidae stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "specificepithet:rudinoris county:&#34;Riverside&#34;" ; Times: 1
+	Query: "class:mammalia distance(location,geopoint(32.0949395200859,-116.87532225119861))&lt;11621.49200506746" ; Times: 1
+	Query: "Peromyscus maniculatus 1972" ; Times: 6
+	Query: "Peromyscus maniculatus 1973" ; Times: 2
+	Query: "Idionycteris" ; Times: 1
+	Query: "Peromyscus maniculatus 1977" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "genus:scalopus class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:microtus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "recordedby:fritts year &gt;= 1973 year &lt;= 1973" ; Times: 1
+	Query: "21870" ; Times: 1
+	Query: "specificepithet:OBSCURUS genus:TAMIAS institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:palustris genus:oryzomys order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 1
+	Query: "genus:bassariscus year &gt;= 2000 institutioncode:SDNHM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 1073 download events in this period)
+Total number of records downloaded: 1273
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+	Country: Brazil ; Times: 1
+	Country: Rwanda ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 3
+	Date: 2019-09-24 ; Times: 3
+	Date: 2019-09-27 ; Times: 5
+	Date: 2019-09-20 ; Times: 5
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-26 ; Times: 11
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-19 ; Times: 5
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 4
+	Date: 2019-09-04 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "specificepithet:ornatus genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Notiosorex" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "nyctinomops femorosaccus" ; Times: 2
+	Query: "genus:cynomys stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:mollis genus:spermophilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "eumops perotis" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "notiosorex evotis" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;baja california&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "specificepithet:trinotatus genus:zapus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Idionycteris" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 16
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;baja california sur&#34;" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "genus:Idionycteris" ; Times: 3
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+
+
+End of report.
