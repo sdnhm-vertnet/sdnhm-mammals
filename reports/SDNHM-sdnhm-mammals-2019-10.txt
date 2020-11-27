@@ -1,0 +1,363 @@
+Report for Institution Code SDNHM, Resource sdnhm-mammals
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 334
+Number of records retrieved in searches: 6664
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 33
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 282
+	Country: Chile ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 7
+	Date: 2019-10-08 ; Times: 6
+	Date: 2019-10-21 ; Times: 6
+	Date: 2019-10-20 ; Times: 15
+	Date: 2019-10-27 ; Times: 3
+	Date: 2019-10-26 ; Times: 3
+	Date: 2019-10-25 ; Times: 7
+	Date: 2019-10-22 ; Times: 9
+	Date: 2019-10-01 ; Times: 6
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-02 ; Times: 9
+	Date: 2019-10-05 ; Times: 22
+	Date: 2019-10-04 ; Times: 58
+	Date: 2019-10-07 ; Times: 14
+	Date: 2019-10-23 ; Times: 4
+	Date: 2019-10-24 ; Times: 7
+	Date: 2019-10-29 ; Times: 42
+	Date: 2019-10-18 ; Times: 12
+	Date: 2019-10-19 ; Times: 13
+	Date: 2019-10-12 ; Times: 17
+	Date: 2019-10-13 ; Times: 3
+	Date: 2019-10-10 ; Times: 13
+	Date: 2019-10-11 ; Times: 3
+	Date: 2019-10-16 ; Times: 9
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-14 ; Times: 15
+	Date: 2019-10-17 ; Times: 3
+	Date: 2019-10-15 ; Times: 3
+	Date: 2019-10-28 ; Times: 17
+	Date: 2019-10-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa preparations:skeleton" ; Times: 1
+	Query: "preparations:skeleton (Mustela lutreola)" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "Peromyscus nasutus 2019" ; Times: 1
+	Query: "Peromyscus nasutus 2018" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex year &gt;= 1800 year &lt;= 1895" ; Times: 1
+	Query: "genus:vulpes county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "perognathus longimembris brevinasus" ; Times: 3
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Urocyon AND Clemente Island NOT Bloeker NOT Cooper NOT Townsend NOT Dixon NOT Dickey NOT Gaylord NOT Howell" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes year&gt;=1900 year&lt;=1940" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:spermophilus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "preparations:skeleton (Mirounga angustirostris)" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 1
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "arvicola amphibius" ; Times: 1
+	Query: "Pitman AND Island NOT Ecuador NOT Dolar NOT Charles NOT Kiribati NOT France NOT French" ; Times: 1
+	Query: "genus:Spermophilus year &gt;= 1959 year &lt;= 1963 institutioncode:SDNHM" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Neotoma insularis" ; Times: 2
+	Query: "Mus musculus 1977" ; Times: 2
+	Query: "specificepithet:lutris genus:Enhydra distance(location,geopoint(28.97520815761375,-115.60777618075849))&lt;496321" ; Times: 2
+	Query: "Rattus norvegicus 2008" ; Times: 1
+	Query: "specificepithet:deserti genus:dipodomys county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "order:lagomorpha county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "family:Soricidae year &gt;= 1959 year &lt;= 1965 institutioncode:SDNHM" ; Times: 1
+	Query: "Reithrodontomys megalotis 2012" ; Times: 1
+	Query: "Reithrodontomys megalotis 2013" ; Times: 1
+	Query: "genus:procyon county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Reithrodontomys megalotis 2016" ; Times: 2
+	Query: "Rattus norvegicus 1977" ; Times: 1
+	Query: "Reithrodontomys megalotis 2018" ; Times: 2
+	Query: "23763" ; Times: 1
+	Query: "specificepithet:macrotis genus:Nyctinomops stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:yumanensis year &gt;= 2017 year &lt;= 2019" ; Times: 1
+	Query: "Reithrodontomys megalotis 1974" ; Times: 1
+	Query: "Reithrodontomys megalotis 1975" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 2
+	Query: "gbifdatasetid:a9ae9ece-e753-4fb9-8595-a37d0f5aa59c" ; Times: 1
+	Query: "Reithrodontomys megalotis 1973" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "genus:eptesicus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "family:Heteromyidae year &gt;= 1959 year &lt;= 1964 institutioncode:SDNHM" ; Times: 4
+	Query: "Rattus norvegicus 2019" ; Times: 1
+	Query: "Rattus norvegicus 2018" ; Times: 1
+	Query: "genus:peromyscus year &gt;= 1959 year &lt;= 1963 institutioncode:SDNHM" ; Times: 1
+	Query: "skin specificepithet:latrans genus:Canis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "Reithrodontomys megalotis 2000" ; Times: 1
+	Query: "longicaudus Phenacomys" ; Times: 1
+	Query: "Reithrodontomys megalotis 2006" ; Times: 1
+	Query: "genus:tadarida county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:mexicana genus:Choeronycteris stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Notiosorex year &gt;= 1959 year &lt;= 1964 institutioncode:SDNHM" ; Times: 1
+	Query: "Neotoma macrotis" ; Times: 12
+	Query: "year &gt;= 1925 year &lt;= 1925 month &gt;= 6 month &lt;= 6 institutioncode:SDNHM" ; Times: 2
+	Query: "Mus musculus 1985" ; Times: 2
+	Query: "specificepithet:cinereoargenteus family:Canidae (zoo)" ; Times: 1
+	Query: "skin specificepithet:latrans genus:canis county:&#34;san diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Pitman AND Island NOT Ecuador NOT Dolar NOT Charles NOT Kiribati" ; Times: 1
+	Query: "Leopardus pardalis 1980" ; Times: 1
+	Query: "specificepithet:DICKEYI genus:Peromyscus" ; Times: 3
+	Query: "Chaetophractus vellerosus" ; Times: 2
+	Query: "Mus musculus 1974" ; Times: 2
+	Query: "SDNHM 26741" ; Times: 1
+	Query: "SDNHM 26742" ; Times: 2
+	Query: "mummy" ; Times: 2
+	Query: "specificepithet:putorius genus:Spilogale family:Mephitidae order:Carnivora stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Neotoma cinerea 2018" ; Times: 1
+	Query: "specificepithet:nigripes stateprovince:((wyoming OR south dakota))" ; Times: 8
+	Query: "specificepithet:SLEVINI genus:PEROMYSCUS" ; Times: 1
+	Query: "genus:macrotus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 4
+	Query: "Mus musculus 2006" ; Times: 2
+	Query: "genus:castor county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Mus musculus 2002" ; Times: 2
+	Query: "Mus musculus 2000" ; Times: 2
+	Query: "class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Pitman AND Island NOT Ecuador NOT Dolar NOT Charles" ; Times: 1
+	Query: "genus:myodes class:mammalia stateprovince:&#34;new brunswick&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "Microtus ochrogaster 2018" ; Times: 1
+	Query: "griseus minnesota" ; Times: 1
+	Query: "Mus musculus 1996" ; Times: 2
+	Query: "Mustela frenata altifrontalis" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Mus musculus 1993" ; Times: 2
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;Lincoln&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "genus:notiosorex county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Mus musculus 1999" ; Times: 2
+	Query: "R-21808" ; Times: 2
+	Query: "genus:equus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "order:chiroptera county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Urocyon AND Clemente Island NOT Bloeker NOT Dixon NOT Gaylord" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris sex:male hassex:1" ; Times: 1
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;oregon&#34; preparations:skull" ; Times: 1
+	Query: "Reithrodontomys megalotis 1996" ; Times: 1
+	Query: "Reithrodontomys megalotis 1994" ; Times: 1
+	Query: "Reithrodontomys megalotis 1995" ; Times: 1
+	Query: "Reithrodontomys megalotis 1992" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Mus musculus 2019" ; Times: 1
+	Query: "Urocyon AND Clemente Island NOT Bloeker NOT Dixon NOT Gaylord NOT Howell" ; Times: 1
+	Query: "preparations:skeleton (Prionailurus viverrinus)" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "Pitman AND Island NOT Ecuador NOT Dolar" ; Times: 1
+	Query: "kogia breviceps" ; Times: 21
+	Query: "skin specificepithet:latrans genus:canis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Urocyon AND Clemente Island NOT Bloeker" ; Times: 1
+	Query: "&#34;Rattus rattus&#34; vntype:specimen stateprovince:&#34;Vermont&#34;" ; Times: 1
+	Query: "genus:urocyon county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Zapus princeps 2019" ; Times: 2
+	Query: "Zapus princeps 2018" ; Times: 1
+	Query: "Onychomys leucogaster 2018" ; Times: 1
+	Query: "balaena mysticetus california" ; Times: 1
+	Query: "genus:Sorex year &gt;= 1959 year &lt;= 1963 institutioncode:SDNHM" ; Times: 4
+	Query: "18509" ; Times: 1
+	Query: "preparations:skeleton (Monachus schauinslandi)" ; Times: 1
+	Query: "Reithrodontomys megalotis 1980" ; Times: 1
+	Query: "mustela nigripes" ; Times: 5
+	Query: "genus:Odocoileus year &gt;= 1959 year &lt;= 1963 institutioncode:SDNHM" ; Times: 1
+	Query: "peromyscus interparietalis" ; Times: 1
+	Query: "genus:hypsugo county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Mus musculus 1978" ; Times: 2
+	Query: "&#34;S. I. Bond&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "catagonus wagneri" ; Times: 1
+	Query: "Suricata suricatta preparations:skeleton" ; Times: 1
+	Query: "Geomys bursarius 2018" ; Times: 1
+	Query: "Geomys bursarius 2019" ; Times: 2
+	Query: "Pitman AND Island NOT Ecuador NOT Dolar NOT Charles NOT Kiribati NOT Colombia NOT France NOT French" ; Times: 1
+	Query: "Mus musculus 1975" ; Times: 2
+	Query: "Leopardus pardalis 2019" ; Times: 1
+	Query: "Leopardus pardalis 2018" ; Times: 1
+	Query: "preparations:skeleton (Leopardus pardalis)" ; Times: 1
+	Query: "&#34;Rattus rattus&#34; vntype:specimen county:&#34;Windham&#34; stateprovince:&#34;Vermont&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Neotoma mexicana 2018" ; Times: 1
+	Query: "Neotoma cinerea 1974" ; Times: 1
+	Query: "skin specificepithet:latrans genus:Canis county:&#34;san diego&#34;" ; Times: 1
+	Query: "PEROMYSCUS STEPHANI" ; Times: 1
+	Query: "specificepithet:CANICEPS genus:Peromyscus" ; Times: 4
+	Query: "genus:ochotona specificepithet:(princeps OR collaris) year&gt;=1916 year&lt;=1920" ; Times: 10
+	Query: "family:Cricetidae year &gt;= 1959 year &lt;= 1964 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:fallax genus:chaetodipus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 3
+	Query: "specificepithet:lutris genus:Enhydra distance(location,geopoint(27.319157654368727,-114.755859375))&lt;474430" ; Times: 2
+	Query: "catalognumber:4819 institutioncode:SDNHM" ; Times: 1
+	Query: "Myotis sodalis 2018" ; Times: 1
+	Query: "Myotis sodalis 2019" ; Times: 1
+	Query: "specificepithet:formosus genus:chaetodipus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "genus:condylura class:mammalia stateprovince:&#34;new brunswick&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "Reithrodontomys megalotis 2011" ; Times: 1
+	Query: "genus:corynorhinus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "genus:lynx county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Urocyon AND Clemente Island NOT Bloeker NOT Dixon" ; Times: 1
+	Query: "Chaetodipus hispidus 2018" ; Times: 1
+	Query: "Chaetodipus hispidus 2019" ; Times: 1
+	Query: "genus:Tamiasciurus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Rattus norvegicus 1981" ; Times: 1
+	Query: "Rattus norvegicus 1983" ; Times: 1
+	Query: "Reithrodontomys megalotis 2014" ; Times: 1
+	Query: "Rattus norvegicus 1987" ; Times: 1
+	Query: "specificepithet:interparietalis genus:Peromyscus" ; Times: 3
+	Query: "class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 8
+	Query: "specificepithet:microps genus:dipodomys county:&#34;lincoln&#34; stateprovince:&#34;nevada&#34;" ; Times: 2
+	Query: "genus:mephitis county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Neotoma year &gt;= 1959 year &lt;= 1963 institutioncode:SDNHM" ; Times: 1
+	Query: "genus:chaetodipus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Urocyon AND Clemente Island NOT Bloeker NOT Dixon NOT Dickey NOT Gaylord NOT Howell" ; Times: 1
+	Query: "Thomomys talpoides 2019" ; Times: 3
+	Query: "Thomomys talpoides 2018" ; Times: 2
+	Query: "aphis" ; Times: 1
+	Query: "Catagonus wagneri" ; Times: 3
+	Query: "Urocyon AND Clemente Island" ; Times: 1
+	Query: "Microtus montanus 1992" ; Times: 1
+	Query: "skin specificepithet:latrans genus:canis county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Neotoma cinerea 2019" ; Times: 2
+	Query: "12953" ; Times: 1
+	Query: "family:cricetidae stateprovince:&#34;California&#34; year &gt;= 1959 year &lt;= 1964 institutioncode:SDNHM" ; Times: 1
+	Query: "Microtus ochrogaster 2019" ; Times: 1
+	Query: "genus:spermophilus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 3
+	Query: "Kogia" ; Times: 1
+	Query: "genus:taxidea county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "19803" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "preparations:skeleton (Neofelis nebulosa)" ; Times: 1
+	Query: "Sylvilagus mansuetus" ; Times: 1
+	Query: "specificepithet:monax genus:marmota year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "institutioncode:sdnhm Blarina brevicauda" ; Times: 1
+	Query: "Pygathrix mappable:1" ; Times: 1
+	Query: "genus:ammospermophilus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "preparations:skeleton (Panthera onca)" ; Times: 1
+	Query: "family:molossidae county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "genus:tamias stateprovince:&#34;new brunswick&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 3
+	Query: "specificepithet:megalotis family:Canidae (zoo)" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Urocyon family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "specificepithet:californicus genus:myotis county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "vntype:specimen specificepithet:monax genus:marmota year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "genus:canis county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Reithrodontomys year &gt;= 1959 year &lt;= 1963 institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Notiosorex year &gt;= 1959 year &lt;= 1963 institutioncode:SDNHM" ; Times: 1
+	Query: "Microtus montanus 2018" ; Times: 1
+	Query: "Microtus montanus 2019" ; Times: 2
+	Query: "Microtus montanus 1980" ; Times: 1
+	Query: "Mus musculus 2018" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 1308 download events in this period)
+Total number of records downloaded: 5978
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Mexico ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-22 ; Times: 5
+	Date: 2019-10-01 ; Times: 5
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-04 ; Times: 4
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-23 ; Times: 15
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-10 ; Times: 8
+	Date: 2019-10-11 ; Times: 11
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa preparations:skeleton" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:mexicana genus:Choeronycteris stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Notiosorex year &gt;= 1959 year &lt;= 1964 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:lucifugus genus:Myotis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Sciurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Microdipodops megacephalus" ; Times: 1
+	Query: "specificepithet:aquaticus genus:sylvilagus" ; Times: 1
+	Query: "Erethizon preparations:skeleton" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:volans genus:Myotis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 3
+	Query: "specificepithet:heermanni genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:inornatus genus:Perognathus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sorex ornatus" ; Times: 1
+	Query: "specificepithet:simulans genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:sabrinus genus:Glaucomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Myotis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "specificepithet:californicus genus:Macrotus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "Rattus rattus vntype:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "specificepithet:venustus genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Vespertilionidae stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:thysanodes genus:Myotis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "erethizon dorsatum vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "specificepithet:sabrinus genus:glaucomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "cavia vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "family:Geomyidae hasmass:1" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "catagonus wagneri" ; Times: 3
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "specificepithet:macrotis genus:Nyctinomops stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Cryptotis country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:Corynorhinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:agilis genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "year &gt;= 1925 year &lt;= 1925 month &gt;= 6 month &lt;= 6 institutioncode:SDNHM" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "vntype:specimen genus:Myotis family:Vespertilionidae order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "genus:Tamias country:&#34;Mexico&#34;" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "family:Soricidae year &gt;= 1959 year &lt;= 1965 institutioncode:SDNHM" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "specificepithet:californicus genus:myotis stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
