@@ -1,0 +1,249 @@
+Report for Institution Code SDNHM, Resource sdnhm-mammals
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 191
+Number of records retrieved in searches: 3011
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 129
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 48
+	Country: United Kingdom ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Paraguay ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-15 ; Times: 9
+	Date: 2019-11-14 ; Times: 4
+	Date: 2019-11-16 ; Times: 6
+	Date: 2019-11-11 ; Times: 5
+	Date: 2019-11-10 ; Times: 10
+	Date: 2019-11-13 ; Times: 6
+	Date: 2019-11-12 ; Times: 10
+	Date: 2019-11-08 ; Times: 6
+	Date: 2019-11-28 ; Times: 3
+	Date: 2019-11-29 ; Times: 2
+	Date: 2019-11-20 ; Times: 15
+	Date: 2019-11-21 ; Times: 2
+	Date: 2019-11-22 ; Times: 17
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-09 ; Times: 5
+	Date: 2019-11-06 ; Times: 15
+	Date: 2019-11-07 ; Times: 21
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-05 ; Times: 9
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-03 ; Times: 30
+	Date: 2019-11-01 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rudinoris genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "tupaia tana" ; Times: 1
+	Query: "17921" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Mammalia recordedby:Clark institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "Lophocebus aterrimus" ; Times: 1
+	Query: "Elephas maximus" ; Times: 4
+	Query: "18819" ; Times: 1
+	Query: "genus:myotis institutioncode:SDNHM" ; Times: 7
+	Query: "Leopardus pardalis 2019" ; Times: 4
+	Query: "Leopardus pardalis 2018" ; Times: 4
+	Query: "Saguinus fuscicollis" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys locality:San Pasqual Valley recordedby:F. Stephens institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:nuttallii genus:Sylvilagus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:penicillatus genus:chaetodipus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "genus:perognathus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "Zalophus wollebaeki" ; Times: 3
+	Query: "vntype:specimen genus:Zalophus locality:Galapagos" ; Times: 1
+	Query: "genus:macrotus institutioncode:SDNHM" ; Times: 1
+	Query: "Nasua narica" ; Times: 4
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys recordedby:F. Stephens institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:transitionalis genus:sylvilagus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:thomomys county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Urocyon littoralis" ; Times: 1
+	Query: "specificepithet:bottae genus:thomomys locality:brawley county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "order:chiroptera institutioncode:SDNHM" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Sciurus variegatoides" ; Times: 1
+	Query: "recordedby:Clark institutioncode:SDNHM" ; Times: 1
+	Query: "24573" ; Times: 1
+	Query: "Leopardus pardalis 1980" ; Times: 4
+	Query: "specificepithet:Californicus genus:Peromyscus institutioncode:SDNHM" ; Times: 5
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Sciurus granatensis" ; Times: 2
+	Query: "specificepithet:nigripes genus:Mustela stateprovince:((wyoming OR south dakota))" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "25328" ; Times: 1
+	Query: "family:dasypodidae institutioncode:SDNHM" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "rea americana" ; Times: 1
+	Query: "order:chiroptera county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:monax stateprovince:&#34;Yukon&#34;" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1942 year &lt;= 2019" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Dinomys branickii" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;sierra&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Callorhinus ursinus" ; Times: 2
+	Query: "genus:glaucomys county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "specificepithet:formosus genus:Chaetodipus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:bottae genus:thomomys locality:fish spring county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "catalognumber:942" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "specificepithet:depressicornis genus:Bubalus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "18906" ; Times: 1
+	Query: "genus:Glaucomys county:&#34;San Bernardino&#34;" ; Times: 3
+	Query: "Arctocephalus australis" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "county:&#34;El Dorado&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Yavapai&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:spinatus genus:chaetodipus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1952 institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Mus county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "specificepithet:monax genus:marmota continent:North America year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "specificepithet:speciosus county:&#34;riverside&#34;" ; Times: 1
+	Query: "county:&#34;El Dorado&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "10918" ; Times: 1
+	Query: "specificepithet:gapperi genus:Myodes stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Pongo abelii" ; Times: 1
+	Query: "16051" ; Times: 1
+	Query: "specificepithet:bottae genus:thomomys locality:. county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:bottae genus:thomomys locality:1 km se in-ko-pah county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:bottae genus:thomomys locality:carrizo creek county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 5
+	Query: "scapanus anthonyi" ; Times: 1
+	Query: "Cuniculus taczanowskii" ; Times: 3
+	Query: "genus:Chaetodipus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:bottae genus:thomomys locality:1 mi n potholes county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:longimembris genus:perognathus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:bottae genus:thomomys locality:3 mi n bard county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 3
+	Query: "Oreamnos americanus" ; Times: 2
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1942 year &lt;= 1992" ; Times: 1
+	Query: "Myotis sodalis 2018" ; Times: 4
+	Query: "Myotis sodalis 2019" ; Times: 4
+	Query: "16053" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "order:chiroptera recordedby:county vet institutioncode:SDNHM" ; Times: 3
+	Query: "specificepithet:bottae genus:thomomys locality:2 mi n bard county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:formosus genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:transitionalis genus:sylvilagus stateprovince:&#34;west virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:chaetodipus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "Panthera onca" ; Times: 3
+	Query: "specificepithet:torridus genus:Onychomys locality:Carlsbad recordedby:F. Stephens institutioncode:SDNHM" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 4
+	Query: "county:&#34;Madera&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Marmota caligata" ; Times: 1
+	Query: "vntype:specimen specificepithet:caligata genus:Marmota stateprovince:&#34;Washington&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "specificepithet:bottae genus:thomomys locality:pilot knob county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "genus:macrotus recordedby:clark institutioncode:SDNHM" ; Times: 1
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 3
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "scapanus latimanus anthonyi" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1367 download events in this period)
+Total number of records downloaded: 2517
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: United Kingdom ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-06 ; Times: 6
+	Date: 2019-11-07 ; Times: 4
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-01 ; Times: 11
+	Date: 2019-11-15 ; Times: 5
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-12 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Urocyon stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:rudinoris genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "locality:Valladares stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Yavapai&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:arenarius genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; year &gt;= 1950 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:monticolus genus:Sorex stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:formosus genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:arenarius genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1800 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "order:rodentia county:&#34;San Francisco&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:fallax genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Babyrousa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Tamiasciurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:gapperi genus:Myodes stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "Marmota caligata" ; Times: 1
+	Query: "vntype:specimen specificepithet:caligata genus:Marmota stateprovince:&#34;Washington&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Spilogale stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1939 year &lt;= 1970" ; Times: 1
+	Query: "order:rodentia county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:depressicornis genus:Bubalus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus xanthinus" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:spinatus genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; year &gt;= 1985 year &lt;= 2020" ; Times: 2
+	Query: "order:rodentia stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:nuttallii genus:Sylvilagus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:formosus genus:Chaetodipus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:spinatus genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "scapanus latimanus anthonyi" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:spinatus genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; year &gt;= 1950 year &lt;= 1970" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:californicus genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Mephitis stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
