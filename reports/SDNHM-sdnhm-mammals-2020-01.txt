@@ -1,0 +1,246 @@
+Report for Institution Code SDNHM, Resource sdnhm-mammals
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 133
+Number of records retrieved in searches: 1388
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 108
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 10
+	Country: United Kingdom ; Times: 8
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-17 ; Times: 4
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 11
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 3
+	Date: 2020-01-05 ; Times: 2
+	Date: 2020-01-21 ; Times: 10
+	Date: 2020-01-20 ; Times: 4
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-22 ; Times: 8
+	Date: 2020-01-25 ; Times: 6
+	Date: 2020-01-24 ; Times: 6
+	Date: 2020-01-27 ; Times: 4
+	Date: 2020-01-29 ; Times: 8
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-14 ; Times: 4
+	Date: 2020-01-15 ; Times: 3
+	Date: 2020-01-16 ; Times: 5
+	Date: 2020-01-31 ; Times: 11
+	Date: 2020-01-10 ; Times: 7
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-12 ; Times: 4
+	Date: 2020-01-13 ; Times: 4
+	Date: 2020-01-30 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 1
+	Query: "specificepithet:lutris genus:enhydra (skin)" ; Times: 1
+	Query: "genus:spilogale class:mammalia stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "Pecari tajacu mappable:1" ; Times: 2
+	Query: "25179" ; Times: 1
+	Query: "locality:&#34;May Valley&#34; county:&#34;Riverside&#34;" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "locality:Valle Vista county:&#34;Riverside&#34; year &gt;= 1909" ; Times: 1
+	Query: "locality:&#34;Garnet Queen&#34; county:&#34;Riverside&#34; year &gt;= 2008" ; Times: 1
+	Query: "genus:ochotona specificepithet:(princeps OR collaris) year&gt;=1916 year&lt;=1920" ; Times: 4
+	Query: "Balaenoptera edeni  mappable:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 5
+	Query: "stateprovince:&#34;California&#34; recordedby:Robertson" ; Times: 1
+	Query: "locality:Garner county:&#34;Riverside&#34;" ; Times: 1
+	Query: "locality:&#34;Pine Wood&#34; county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "genus:Bubalus" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "Megaerops ecaudatus" ; Times: 1
+	Query: "dipodomys merriami county:&#34;Riverside&#34; year &gt;= 2016 year &lt;= 2018" ; Times: 1
+	Query: "genus:Spilogale stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Chaetodipus californicus femoralis" ; Times: 2
+	Query: "locality:&#34;Santa Rosa&#34; county:&#34;Riverside&#34; year &gt;= 1909 year &lt;= 2007" ; Times: 1
+	Query: "Calgary Zoo" ; Times: 1
+	Query: "locality:Fuller county:&#34;Riverside&#34;" ; Times: 1
+	Query: "18975" ; Times: 2
+	Query: "specificepithet:depressicornis genus:Bubalus" ; Times: 3
+	Query: "specificepithet:nigripes stateprovince:((wyoming OR south dakota))" ; Times: 2
+	Query: "genus:peromyscus county:&#34;napa&#34;" ; Times: 1
+	Query: "class:Mammalia locality:Idyllwild county:&#34;Riverside&#34;" ; Times: 1
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "locality:Grande county:&#34;Riverside&#34;" ; Times: 1
+	Query: "locality:Fuller county:&#34;Riverside&#34; year &gt;= 1909" ; Times: 1
+	Query: "locality:Thomas county:&#34;Riverside&#34;" ; Times: 1
+	Query: "&#34;Vista Grande&#34; county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 11
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "class:Mammalia locality:Tahquitz county:&#34;Riverside&#34; year &gt;= 1909 year &lt;= 2008" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;san diego&#34; (pournelle)" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "Nyctinomops macrotis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "&#34;Ailurus fulgens&#34;" ; Times: 5
+	Query: "genus:myotis county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Stenella longirostris mappable:1" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "genus:Inia" ; Times: 1
+	Query: "genus:myotis locality:. county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "locality:Thomas county:&#34;Riverside&#34; year &gt;= 2008" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;san diego&#34; (blair )" ; Times: 1
+	Query: "locality:Kenworthy county:&#34;Riverside&#34; year &gt;= 1909" ; Times: 1
+	Query: "genus:Tadarida county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "13990" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 4
+	Query: "locality:&#34;Round Valley&#34; county:&#34;Riverside&#34;" ; Times: 1
+	Query: "locality:&#34;Lake Hemet&#34; county:&#34;Riverside&#34;" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 1
+	Query: "family:Myocastoridae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 6
+	Query: "lepus americanus oregon vntype:specimen institutioncode:SDNHM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Mammalia locality:Hemet county:&#34;Riverside&#34; year &gt;= 1909 year &lt;= 2007" ; Times: 1
+	Query: "otaria" ; Times: 1
+	Query: "&#34;Microtus pinetorum&#34; vntype:specimen stateprovince:&#34;Connecticut&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "year &gt;= 2018 year &lt;= 2019 institutioncode:SDNHM" ; Times: 3
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 2
+	Query: "12356" ; Times: 1
+	Query: "specificepithet:xanthinus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "locality:Tahquitz county:&#34;Riverside&#34; year &gt;= 1909 year &lt;= 2008" ; Times: 1
+	Query: "genus:spilogale class:mammalia institutioncode:SDNHM" ; Times: 1
+	Query: "phoca sibirica" ; Times: 2
+	Query: "genus:spilogale class:mammalia stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "genus:microtus year &gt;= 1925 year &lt;= 1925 institutioncode:SDNHM" ; Times: 1
+	Query: "locality:Bautista county:&#34;Riverside&#34;" ; Times: 1
+	Query: "callithrix pygmaea" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "otaria byronia" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys county:&#34;union&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 76 (out of 1584 download events in this period)
+Total number of records downloaded: 10857
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 64
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 6
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 6
+	Date: 2020-01-01 ; Times: 2
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-29 ; Times: 5
+	Date: 2020-01-28 ; Times: 2
+	Date: 2020-01-30 ; Times: 12
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-11 ; Times: 7
+	Date: 2020-01-12 ; Times: 15
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Canidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:lutris genus:enhydra (skin)" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tamias baja" ; Times: 2
+	Query: "Myotis volans" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:rodentia county:&#34;napa&#34;" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "dipodomys merriami county:&#34;Riverside&#34; year &gt;= 2016 year &lt;= 2018" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "family:Bathyergidae" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:xanthinus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "genus:Sorex family:Soricidae country:&#34;Mexico&#34;" ; Times: 2
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "family:Felidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "specificepithet:agilis genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "Lasiurus xanthinus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "specificepithet:californicus genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Vespertilionidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "locality:&#34;Lake Hemet&#34; county:&#34;Riverside&#34;" ; Times: 1
+	Query: "family:Myocastoridae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Reithrodontomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Chaetodipus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "lepus americanus oregon vntype:specimen institutioncode:SDNHM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:Canfield institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1950" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Perimyotis subflavus" ; Times: 1
+	Query: "Parastrellus hesperus" ; Times: 1
+	Query: "recordedby:huey institutioncode:SDNHM" ; Times: 1
+	Query: "Nyctinomops femorosaccus" ; Times: 1
+	Query: "family:Otariidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Oryzomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:seminolus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "rainier" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "genus:Perognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Myotis occultus" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Liomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+
+
+End of report.
