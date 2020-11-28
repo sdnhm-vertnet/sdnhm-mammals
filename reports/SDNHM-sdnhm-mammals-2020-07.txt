@@ -1,0 +1,200 @@
+Report for Institution Code SDNHM, Resource sdnhm-mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 94
+Number of records retrieved in searches: 661
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 9
+	Country: United States ; Times: 58
+	Country: Malaysia ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-22 ; Times: 17
+	Date: 2020-07-17 ; Times: 3
+	Date: 2020-07-20 ; Times: 4
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 4
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-03 ; Times: 11
+	Date: 2020-07-02 ; Times: 7
+	Date: 2020-07-04 ; Times: 3
+	Date: 2020-07-07 ; Times: 11
+	Date: 2020-07-06 ; Times: 7
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-14 ; Times: 8
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "(canis) institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:16925 institutioncode:SDNHM" ; Times: 2
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM)" ; Times: 1
+	Query: "Arctictis binturong" ; Times: 1
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;3120076" ; Times: 1
+	Query: "Balaenoptera edeni mappable:1" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans)" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 5
+	Query: "(puma) institutioncode:SDNHM distance(location,geopoint(32.87553732867982,-117.09579895870156))&lt;213225" ; Times: 1
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 1
+	Query: "(canis) institutioncode:SDNHM distance(location,geopoint(33.488758677974594,-116.42021548307454))&lt;178298.4904702721" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU)" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM)" ; Times: 1
+	Query: "specificepithet:beecheyi genus:spermophilus county:&#34;riverside&#34;" ; Times: 1
+	Query: "(puma) institutioncode:SDNHM distance(location,geopoint(32.87553732867982,-117.09579895870156))&lt;100000" ; Times: 1
+	Query: "Conepatus" ; Times: 1
+	Query: "lontra canadensis pacifica" ; Times: 3
+	Query: "catalognumber:23457 institutioncode:SDNHM" ; Times: 2
+	Query: "Zapus luteus" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Napaeozapus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "okapia" ; Times: 1
+	Query: "Stenella longirostris mappable:1" ; Times: 1
+	Query: "Tupaia tana" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "Otaria flavescens" ; Times: 1
+	Query: "catalognumber:23678 institutioncode:SDNHM" ; Times: 3
+	Query: "13222" ; Times: 1
+	Query: "(puma) institutioncode:SDNHM distance(location,geopoint(32.91243718959908,-116.87607239620156))&lt;213224.74082572674" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "(canis latrans) institutioncode:SDNHM" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU)" ; Times: 1
+	Query: "catalognumber:23691 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:23679 institutioncode:SDNHM" ; Times: 2
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "genus:Conepatus institutioncode:SDNHM" ; Times: 2
+	Query: "(ursus) institutioncode:SDNHM" ; Times: 1
+	Query: "Dremomys everetti" ; Times: 2
+	Query: "(Bassariscus astutus) institutioncode:SDNHM distance(location,geopoint(32.91243718959908,-116.87607239620156))&lt;213224.74082572674" ; Times: 1
+	Query: "Prionailurus viverrinus" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "genus:okapia class:mammalia" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM)" ; Times: 1
+	Query: "pongo abelii" ; Times: 4
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 5
+	Query: "Bos grunniens" ; Times: 1
+	Query: "dremomys everetti" ; Times: 3
+	Query: "(ursus arctos) institutioncode:SDNHM" ; Times: 2
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 2
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 1
+	Query: "boxer" ; Times: 1
+	Query: "catalognumber:23104 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "LM 2660" ; Times: 1
+	Query: "Rhinolophus trifoliatus" ; Times: 1
+	Query: "specificepithet:fumeus genus:sorex county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 940 download events in this period)
+Total number of records downloaded: 16525
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 9
+	Country: India ; Times: 2
+	Country: United States ; Times: 22
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-16 ; Times: 5
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-21 ; Times: 5
+	Date: 2020-07-06 ; Times: 3
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-28 ; Times: 4
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "Stenella attenuata" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Sundasciurus" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys" ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "Otaria flavescens" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "specificepithet:ingens genus:Dipodomys" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; country:&#34;mexico&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "genus:Conepatus institutioncode:SDNHM" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "Tupaia belangeri" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
