@@ -1,0 +1,103 @@
+Report for Institution Code SDNHM, Resource sdnhm-mammals
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 91
+Number of records retrieved in searches: 781
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 11
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 29
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-24 ; Times: 3
+	Date: 2020-06-08 ; Times: 25
+	Date: 2020-06-30 ; Times: 1
+	Date: 2020-06-04 ; Times: 4
+	Date: 2020-06-16 ; Times: 2
+	Date: 2020-06-11 ; Times: 11
+	Date: 2020-06-10 ; Times: 16
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-12 ; Times: 7
+	Date: 2020-06-17 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Soricidae stateprovince:&#34;Baja California Sur&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Muntiacus vaginalis" ; Times: 6
+	Query: "specificepithet:mollis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Monachus" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 6
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Mustela nigripes" ; Times: 2
+	Query: "genus:myodes stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Callithrix pygmaea" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus recordedby:erickson" ; Times: 1
+	Query: "genus:Neofelis" ; Times: 1
+	Query: "family:Soricidae stateprovince:&#34;Baja California&#34;" ; Times: 2
+	Query: "Pongo abelii" ; Times: 1
+	Query: "genus:chaetodipus recordedby:erickson" ; Times: 1
+	Query: "Bos taurus" ; Times: 6
+	Query: "genus:neotoma recordedby:erickson" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 6
+	Query: "ailurus fulgens" ; Times: 11
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:colorado OR kansas" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 5
+	Query: "Hexaprotodon liberiensis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "Nycticebus pygmaeus" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus recordedby:erickson" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+	Query: "class:mammalia (10058)" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 474 download events in this period)
+Total number of records downloaded: 240
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-24 ; Times: 2
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-11 ; Times: 5
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Soricidae stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "nasua nasua" ; Times: 1
+	Query: "family:Soricidae stateprovince:&#34;Baja California Sur&#34;" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+
+
+End of report.
