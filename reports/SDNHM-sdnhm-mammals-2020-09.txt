@@ -1,0 +1,195 @@
+Report for Institution Code SDNHM, Resource sdnhm-mammals
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 557
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 9
+	Country: India ; Times: 2
+	Country: France ; Times: 4
+	Country: United States ; Times: 72
+	Country: Colombia ; Times: 3
+	Country: Japan ; Times: 2
+	Country: South Korea ; Times: 2
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 7
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-03 ; Times: 3
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-06 ; Times: 2
+	Date: 2020-09-05 ; Times: 2
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-21 ; Times: 7
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-22 ; Times: 11
+	Date: 2020-09-25 ; Times: 4
+	Date: 2020-09-24 ; Times: 3
+	Date: 2020-09-27 ; Times: 2
+	Date: 2020-09-26 ; Times: 3
+	Date: 2020-09-29 ; Times: 17
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-16 ; Times: 6
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-10 ; Times: 5
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-13 ; Times: 14
+	Date: 2020-09-18 ; Times: 3
+	Date: 2020-09-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Peromyscus mexicanus" ; Times: 1
+	Query: "coyote canyon institutioncode:SDNHM" ; Times: 1
+	Query: "scientificname:Pongo abelii" ; Times: 13
+	Query: "specificepithet:longimembris genus:perognathus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 2
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "monodon vntype:specimen country:&#34;united states&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "scapanus anthonyi" ; Times: 1
+	Query: "specificepithet:ciliolabrum genus:Myotis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 2
+	Query: "scientificname:Liomys irroratus" ; Times: 3
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "catalognumber:10687 institutioncode:SDNHM" ; Times: 4
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "specificepithet:bison genus:bison stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:longimembris genus:perognathus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "panthera tigris sumatrae" ; Times: 2
+	Query: "specificepithet:maritimus genus:Ursus haslifestage:1" ; Times: 3
+	Query: "Otaria flavescens" ; Times: 2
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "catalognumber:25233 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "class:mammalia catalognumber:6002 institutioncode:SDNHM" ; Times: 1
+	Query: "16892" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "specificepithet:volans genus:Myotis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "dinomys" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 2
+	Query: "genus:perognathus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;los angeles&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1952" ; Times: 1
+	Query: "specificepithet:monoceros genus:Monodon basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "peromyscus sejugis" ; Times: 3
+	Query: "specificepithet:xanthanotus genus:perognathus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "catalognumber:8867 institutioncode:SDNHM" ; Times: 1
+	Query: "Sylvilagus cunicularius mexico" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "lemmiscus curtatus mono" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "monodon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:bottae genus:thomomys county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "scientificname:Pongo Abelii" ; Times: 2
+	Query: "Mesocricetus auratus" ; Times: 2
+	Query: "16952" ; Times: 1
+	Query: "scapanus latimanus anthonyi" ; Times: 2
+	Query: "catalognumber:38 institutioncode:SDNHM" ; Times: 2
+	Query: "scientificname:Pan paniscus" ; Times: 14
+	Query: "tamias obscurus" ; Times: 3
+	Query: "scientificname:Nasua narica" ; Times: 1
+	Query: "seorsus" ; Times: 3
+	Query: "scientificname:Pan Paniscus" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "scientificname:Liomys texensis" ; Times: 2
+	Query: "specificepithet:maritimus genus:Ursus family:Ursidae haslifestage:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 976 download events in this period)
+Total number of records downloaded: 3410
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Unknown ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-21 ; Times: 3
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-17 ; Times: 7
+	Date: 2020-09-10 ; Times: 5
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-29 ; Times: 5
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 7
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-09 ; Times: 8
+	Date: 2020-09-01 ; Times: 2
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-24 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;san bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1952" ; Times: 1
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "country:&#34;México&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 2
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus haslifestage:1" ; Times: 3
+	Query: "THYLAMYS ELEGANS" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1952" ; Times: 1
+	Query: "myotis californicus" ; Times: 3
+	Query: "genus:Martes specificepithet:americana*" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes" ; Times: 2
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;los angeles&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1952" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "artibeus cinereus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Sylvilagus cunicularius mexico" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+	Query: "specificepithet:cristata genus:Condylura" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+
+
+End of report.
