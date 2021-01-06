@@ -1,0 +1,173 @@
+Report for Institution Code SDNHM, Resource sdnhm-mammals
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 713
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 70
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 19
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Bolivia ; Times: 1
+	Country: Spain ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 9
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-09 ; Times: 18
+	Date: 2020-12-08 ; Times: 3
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-05 ; Times: 3
+	Date: 2020-12-04 ; Times: 13
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-02 ; Times: 16
+	Date: 2020-12-01 ; Times: 4
+	Date: 2020-12-25 ; Times: 3
+	Date: 2020-12-24 ; Times: 4
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-20 ; Times: 2
+	Date: 2020-12-22 ; Times: 2
+	Date: 2020-12-10 ; Times: 1
+	Date: 2020-12-11 ; Times: 5
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-13 ; Times: 2
+	Date: 2020-12-14 ; Times: 9
+	Date: 2020-12-16 ; Times: 4
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "genus:megaptera year &gt;= 2010 year &lt;= 2020" ; Times: 1
+	Query: "Muntiacus vaginalis" ; Times: 1
+	Query: "scientificname:Parascalops breweri stateprovince:new york" ; Times: 2
+	Query: "Hay Creek 1917" ; Times: 1
+	Query: "scientificname:Zapus hudsonius stateprovince:new york" ; Times: 2
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "26573" ; Times: 1
+	Query: "scientificname:Ondatra zibethicus stateprovince:new york" ; Times: 2
+	Query: "Equus caballus" ; Times: 1
+	Query: "&#34;Hay Creek&#34; 1917" ; Times: 1
+	Query: "skeleton vntype:specimen genus:Macroscelides" ; Times: 1
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 4
+	Query: "Pan paniscus" ; Times: 5
+	Query: "genus:reithrodontomys county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "genus:tragulus" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "scientificname:Scalopus aquaticus stateprovince:new york" ; Times: 2
+	Query: "class:Mammalia county:&#34;Jefferson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "specificepithet:truei genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "genus:myodes stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "19907" ; Times: 1
+	Query: "scientificname:Tamiasciurus hudsonicus stateprovince:new york" ; Times: 2
+	Query: "Axis axis" ; Times: 1
+	Query: "genus:megaptera year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Pipistrellus javanicus" ; Times: 1
+	Query: "scientificname:Microtus pinetorum stateprovince:new york" ; Times: 2
+	Query: "scientificname:Sciurus carolinensis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Sorex cinereus stateprovince:new york" ; Times: 2
+	Query: "Bos taurus" ; Times: 2
+	Query: "scientificname:Napaeozapus insignis stateprovince:new york" ; Times: 2
+	Query: "dipodomys merriami parvus" ; Times: 4
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "scientificname:Sorex fumeus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "12995" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "26360" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:SDNHM" ; Times: 1
+	Query: "scientificname:Mustela erminea stateprovince:new york" ; Times: 2
+	Query: "distance(location,geopoint(32.98148819653099,-116.0457098897061))&lt;10350" ; Times: 1
+	Query: "scientificname:Microtus pennsylvanicus stateprovince:new york" ; Times: 2
+	Query: "25857" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "genus:Mus class:Mammalia stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 5
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 3
+	Query: "Felis catus" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:SDNHM" ; Times: 2
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 2
+	Query: "25529" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 8
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "mappable:1 scientificname:Bos taurus" ; Times: 1
+	Query: "92027" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 705 download events in this period)
+Total number of records downloaded: 3755
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Turkey ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 13
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-02 ; Times: 6
+	Date: 2020-12-16 ; Times: 2
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-03 ; Times: 7
+	Date: 2020-12-15 ; Times: 3
+	Date: 2020-12-01 ; Times: 1
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "genus:Ondatra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "genus:megaptera year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Sonora&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:Mammalia locality:Mojave Desert" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:SDNHM" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "Delphinapterus leucas" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Chihuahua&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "caracal caracal" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+
+
+End of report.
